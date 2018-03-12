@@ -1,0 +1,18 @@
+----- horas para aprender ferramentas (selenium e pytest) e desenvolver projeto -----
+2016-02-17 - 8:00/
+
+----- passo a passo ---------
+Deve-se instalar inicialmente:
+- selenium para python
+    pip install selenium
+
+- apt-get install python-pip
+- apt-get install xvfb xserver-xephyr vnc4server
+- pip install pyvirtualdisplay
+
+Deve-se baixar o Driver correspondente ao navegador que será utilizado para os teste, neste caso foi chrome e copiá-lo para /usr/bin
+    https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+------- site selenium - informações importantes --------
+http://selenium-python.readthedocs.io/locating-elements.html#locating-elements
+
